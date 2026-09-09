@@ -1,6 +1,12 @@
-# Architecture Pivot：做著做著，重新理解了想做的產品
+<div align="center">
 
-在完成 MVP 的過程中，新增功能帶來新的理解，也讓原本的架構與資訊呈現開始需要重新考慮。
+<h1>Architecture Pivot</h1>
+
+<p><strong>做著做著，重新理解了想做的產品</strong></p>
+
+<p>從 Tank Simulator 的 MVP 開發，回看產品核心、功能分工與資訊呈現如何受到新發現挑戰。</p>
+
+</div>
 
 ```mermaid
 flowchart TD
